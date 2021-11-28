@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Calculator
+//  LBS
 //
-//  Created by Shotray on 2021/10/23.
+//  Created by Shotray on 2021/11/28.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  Calculator_swiftuiApp.swift
 //  Calculator_swiftui
 //
-//  Created by 香宁雨 on 2021/10/31.
+//  Created by Shotray on 2021/10/31.
 //
 
 import SwiftUI
